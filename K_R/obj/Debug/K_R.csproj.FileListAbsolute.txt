@@ -1,0 +1,31 @@
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.csprojAssemblyReference.cache
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.Main_Window.resources
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.Properties.Resources.resources
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.csproj.GenerateResource.cache
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.csproj.CoreCompileInputs.cache
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\bin\Debug\K_R.exe.config
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\bin\Debug\K_R.exe
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\bin\Debug\K_R.pdb
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.exe
+F:\Учёба 10 ноября\2 курс\С#\Курсовая работа\K_R\obj\Debug\K_R.pdb
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.csprojAssemblyReference.cache
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.Main_Window.resources
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.Properties.Resources.resources
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.csproj.GenerateResource.cache
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.csproj.CoreCompileInputs.cache
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.exe
+G:\С#\Курсовая работа\K_R\obj\Debug\K_R.pdb
+G:\С#\Курсовая работа\K_R\bin\Debug\K_R.exe.config
+G:\С#\Курсовая работа\K_R\bin\Debug\K_R.exe
+G:\С#\Курсовая работа\K_R\bin\Debug\K_R.pdb
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\bin\Debug\K_R.exe.config
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\bin\Debug\K_R.exe
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\bin\Debug\K_R.pdb
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.csproj.AssemblyReference.cache
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.csproj.SuggestedBindingRedirects.cache
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.Main_Window.resources
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.Properties.Resources.resources
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.csproj.GenerateResource.cache
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.csproj.CoreCompileInputs.cache
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.exe
+C:\Users\TDKpo\Desktop\Работа\Резюме\K_R\obj\Debug\K_R.pdb
